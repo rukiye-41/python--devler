@@ -1,0 +1,13 @@
+##6-
+##Asagidaki ciktiyi 3 farkli yontem ile printleyin.
+##
+##Python’un kurucusu Guido Van Rossum,Hollanda’nin Amsterdam’daki  "Universiteit Van Amsterdam"okulundan  1982’de mezun olmuştur.
+##     kaydedin.
+print("Python’un kurucusu Guido Van Rossum,Hollanda’nin Amsterdam’daki  'Universiteit Van Amsterdam' okulundan  1982’de mezun olmuştur.")
+
+print('Python’un kurucusu Guido Van Rossum,Hollanda’nin Amsterdam’daki  "Universiteit Van Amsterdam" okulundan  1982’de mezun olmuştur.')
+
+print("""Python’un kurucusu Guido Van Rossum,Hollanda’nin Amsterdam’daki  'Universiteit Van Amsterdam' okulundan  1982’de mezun olmuştur.""")
+
+
+      
